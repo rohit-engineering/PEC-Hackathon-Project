@@ -4,7 +4,7 @@
 <ul>
   <li>Rohit - Student at IKGPTU</li>
   <li>Team Mate - Niraj Kumar</li>
-  <li>Note :-  Not a Fully developed application (Just a prototype)li>
+  <li>Note :-  Not a Fully developed application (Just a prototype)
   <li>ollaborate and help to Complete this project</li>
 </ul>
 
